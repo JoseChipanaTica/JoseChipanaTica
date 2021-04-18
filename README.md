@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JoseChipanaTica
+- 👀 I’m interested in Data Science, AI (Machine Learning y Deep Learning) & Big Data
+- 🌱 I’m currently learning Deep Learning (NLP y Vision Computer) & PySpark 
+- 💞️ I’m looking to collaborate on Deep Learning projects
+- 📫 How to reach me: email: josepaulct@gmail.com
