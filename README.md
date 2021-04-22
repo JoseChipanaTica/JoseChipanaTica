@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Data Science, AI (Machine Learning y Deep Learning) & Big Data
 - 🌱 I’m currently learning Deep Learning (NLP y Vision Computer) & PySpark 
-- 💞️ I’m looking to collaborate on Deep Learning projects
+- 💞️ I’m looking to collaborate in Deep Learning projects
 - 📫 How to reach me: email: josepaulct@gmail.com or my social networks
 
 ### Connect with me:
