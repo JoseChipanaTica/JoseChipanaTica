@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Deep Learning (NLP y Vision Computer) & PySpark 
 - 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me: email: josepaulct@gmail.com or my social networks
-- 
+
 ### Connect with me:
 
 <a href=https://www.linkedin.com/in/jchipana/>
