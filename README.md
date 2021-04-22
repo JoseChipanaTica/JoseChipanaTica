@@ -1,4 +1,4 @@
-##   Hi, I’m @JoseChipanaTica 👋 
+##   Hi, I’m Jose Chipana Tica 👋 
 
 
 - 👀 I’m interested in Data Science, AI (Machine Learning y Deep Learning) & Big Data
