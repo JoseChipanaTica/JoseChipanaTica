@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me: email: josepaulct@gmail.com or my social networks
 
-### Connect with me:
+### Social Networks:
 
 <a href=https://www.linkedin.com/in/jchipana/>
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
