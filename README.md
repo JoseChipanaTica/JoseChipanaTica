@@ -25,13 +25,11 @@
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 
 <br />
-<br />
 
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tensorflow.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/keras.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/pytorch.svg" />
 
-<br />
 <br />
 
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apachespark.svg" />
